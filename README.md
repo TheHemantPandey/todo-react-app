@@ -1,8 +1,3 @@
-GitHub: https://github.com/TheHemantPandey  
-Live Project: https://todo-byhemant.vercel.app/
-
-
-
 # ✅ iTask Todo App (React + Vite)
 
 A modern and responsive **Todo Task Manager** built using **React + Vite**.  
